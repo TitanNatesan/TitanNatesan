@@ -9,37 +9,26 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <p>Python</p>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <p>HTML</p>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <p>CSS</p>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <p>JS</p>
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
-  <p>Django</p>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <p>TS</p>
   <img width="20" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo"  />
-  <p>React</p>
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <p>Tailwind</p>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <p>VSC</p>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <p>Git</p>
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <p>GitHub</p>
   <img width="20" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="githubactions logo"  />
   <img width="20" />
