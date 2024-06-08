@@ -3,7 +3,7 @@
 <br>
 <div align="left">
   <a href="https://www.linkedin.com/in/titannatesan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" style="margin:50px" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" style="margin:50px;border:1px solid white;" />
   </a>
   <a href="https://www.instagram.com/titan_natesan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Insta&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
