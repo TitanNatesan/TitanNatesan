@@ -1,5 +1,7 @@
 # 💫 About Me:
 ### Hi there, I'm Natesan K 👋<br><br>I'm a passionate Computer Science and Engineering student from Tamil Nadu, India, currently studying at Karpagam Academy of Higher Education. I specialize in full-stack web development using Django and React, and mobile app development with React Native. My interests lie in AI and machine learning, and I've worked on projects like an AI-powered image classification system for plant disease detection. I'm eager to collaborate on innovative projects and contribute to the tech community!<br><br>🔭 I’m currently working on improving my AI and robotics skills  <br>🌱 I’m learning by doing and love hands-on projects  <br>💬 Ask me about web development, AI, and hackathons  <br>📫 How to reach me: [Your Email or LinkedIn]  <br>⚡ Fun fact: I enjoy solving real-world problems with technology<br><br><br>Let's build something amazing together!<br>
+
+<br>
 <br>
 <div align="left">
   <a href="https://www.linkedin.com/in/titannatesan/" target="_blank">
@@ -24,7 +26,7 @@
 <br>
 <br>
 <br>
-## 💻 Tech Stack 
+<h3>💻 Tech Stack </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="20" />
