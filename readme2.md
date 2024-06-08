@@ -1,11 +1,26 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 💫 About Me:
+### Hi there, I'm Natesan K 👋<br><br>I'm a passionate Computer Science and Engineering student from Tamil Nadu, India, currently studying at Karpagam Academy of Higher Education. I specialize in full-stack web development using Django and React, and mobile app development with React Native. My interests lie in AI and machine learning, and I've worked on projects like an AI-powered image classification system for plant disease detection. I'm eager to collaborate on innovative projects and contribute to the tech community!<br><br>🔭 I’m currently working on improving my AI and robotics skills  <br>🌱 I’m learning by doing and love hands-on projects  <br>💬 Ask me about web development, AI, and hackathons  <br>📫 How to reach me: [Your Email or LinkedIn]  <br>⚡ Fun fact: I enjoy solving real-world problems with technology<br><br>Let's build something amazing together!<br>
 
-###
-
-<div align="center">
+<div align="left">
+  <a href="https://www.linkedin.com/in/titannatesan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/titan_natesan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Insta&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/titannatesan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="http://t.me/TitanNatesan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://medium.com/@titannatesan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://www.facebook.com/TitanNatesan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=FB&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
 </div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
