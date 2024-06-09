@@ -96,6 +96,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
 </div>
 
+```python
+print("Hello World");
+```
 
 <br clear="both">
 
