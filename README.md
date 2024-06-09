@@ -120,7 +120,6 @@
 </div>
 
 <br clear="both">
-<br>
 
 ```python
 def follow_your_dreams():
