@@ -111,7 +111,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TitanNatesan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TitanNatesan&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="80%" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TitanNatesan&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
   <img src="https://github-profile-trophy.vercel.app?username=TitanNatesan&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
   
 ### ✍️ Random Dev Quote
