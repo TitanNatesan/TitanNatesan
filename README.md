@@ -121,9 +121,9 @@
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="30%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="45%" />
   <a href="https://open.spotify.com/user/31uzrjdzhhergny5w6z3pyk7si34">
-    <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=3&unique=true" alt="recently played" />
+    <img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=3&unique=true" alt="recently played" />
   </a>
 </div>
 
