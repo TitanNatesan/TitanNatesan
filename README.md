@@ -120,7 +120,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
   <a href="https://open.spotify.com/user/31uzrjdzhhergny5w6z3pyk7si34">
-    <img width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=2&unique=true" alt="recently played" />
+    <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=2&unique=true" alt="recently played" />
   </a>
 </div>
 
