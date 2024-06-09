@@ -95,7 +95,31 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
 </div>
-<br clear='both'>
+
+<br clear="both">
+
+<img width="100%" src="https://raw.githubusercontent.com/TitanNatesan/TitanNatesan/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TitanNatesan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
+  <br clear="both">
+  <img src="https://streak-stats.demolab.com?user=TitanNatesan&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TitanNatesan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
+  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TitanNatesan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TitanNatesan&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=TitanNatesan&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br clear="both">
 <br>
 
 ```python
@@ -151,30 +175,6 @@ def inspire_others(achievements):
 # Start your journey
 print(follow_your_dreams())
 ```
-
-<br clear="both">
-
-<img width="100%" src="https://raw.githubusercontent.com/TitanNatesan/TitanNatesan/output/snake.svg" alt="Snake animation" />
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TitanNatesan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
-  <br clear="both">
-  <img src="https://streak-stats.demolab.com?user=TitanNatesan&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TitanNatesan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=midnight-purple&hide_border=true&order=2" height="180" alt="languages graph" />
-  
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TitanNatesan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TitanNatesan&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=TitanNatesan&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
 <br clear="both">
 
 <div align="center">
