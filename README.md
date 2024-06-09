@@ -118,14 +118,8 @@
 
 
 <div align="center">
-
-### ✍️ Random Dev Quote
-
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="45%" height="200" />
   <a href="https://open.spotify.com/user/31uzrjdzhhergny5w6z3pyk7si34">
-
-### Spotify
-
     <img width="45%" height="200" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=2&unique=true" alt="recently played" />
   </a>
 </div>
