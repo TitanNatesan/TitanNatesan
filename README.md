@@ -119,6 +119,14 @@
 
 </div>
 
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="30%" />
+  <a href="https://open.spotify.com/user/31uzrjdzhhergny5w6z3pyk7si34">
+    <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=3&unique=true" alt="recently played" />
+  </a>
+</div>
+
 <br clear="both">
 
 ```python
@@ -175,9 +183,3 @@ def inspire_others(achievements):
 print(follow_your_dreams())
 ```
 <br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31uzrjdzhhergny5w6z3pyk7si34">
-    <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=3&unique=true" alt="recently played" />
-  </a>
-</div>
