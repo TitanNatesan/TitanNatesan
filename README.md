@@ -113,17 +113,17 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TitanNatesan&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
   <img src="https://github-profile-trophy.vercel.app?username=TitanNatesan&theme=discord&column=-1&row=2&margin-w=12&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" height="150" alt="trophy graph" />
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="45%" />
+
+### ✍️ Random Dev Quote
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="45%" height="200" />
   <a href="https://open.spotify.com/user/31uzrjdzhhergny5w6z3pyk7si34">
-    <img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=3&unique=true" alt="recently played" />
+    <img width="45%" height="200" src="https://spotify-recently-played-readme.vercel.app/api?user=31uzrjdzhhergny5w6z3pyk7si34&count=2&unique=true" alt="recently played" />
   </a>
 </div>
 
